@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<manifest>
+    <remote name="donDonald" fetch="."/>
+    <default sync-j="4" remote="donDonald" revision="main"/>
+
+    <project name="dev_factory_tools"/>
+    <project name="dev_factory_postgres12"/>
+    <project name="dev_factory_mysql"/>
+    <project name="dev_factory_dregistry"/>
+    <project name="dev_factory_gitlab"/>
+
+    <project name="yeap_logger"/>
+    <project name="yeap_db"/>
+    <project name="yeap_lib"/>
+    <project name="yeap_app_server"/>
+    <project name="yeap_app_server_example"/>
+
+    <project name="devops"/>
+    <project name="cpp_tests"/>
+    <project name="java_tests"/>
+    <project name="dockprom"/>
+
+  <!--
+    Merge marker to make it easier for git to merge AOSP-only manifest
+    changes to a custom manifest.  Please keep this marker here and
+    refrain from making changes on or below it.
+  -->
+</manifest>
+
