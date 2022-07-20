@@ -11,6 +11,7 @@
     <project name="dev_factory_gitlab"/>
 
     <project name="yeap_types"/>
+    <project name="yeap_lib"/>
     <project name="yeap_logger"/>
     <project name="yeap_db"/>
     <project name="yeap_app_server"/>
