@@ -1,16 +1,38 @@
-### Hi there 👋
+# Hi there 👋
 
-<!--
-**donDonald/donDonald** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+# donDonald repo
+Collecting all repos for donDonald
 
-Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+
+
+### Install repo tool
+```
+$ mkdir -p ~/bin
+$ curl https://storage.googleapis.com/git-repo-downloads/repo > ~/bin/repo
+$ chmod a+x ~/bin/repo
+$ export PATH=~/bin:$PATH
+```
+
+
+
+
+### Clone respositories over http
+```
+$ mkdir donDonald && cd donDonald
+$ repo init -v -u https://github.com/donDonald/donDonald.git -b main
+$ repo sync
+```
+
+
+
+
+### Clone respositories over ssh
+```
+$ mkdir donDonald && cd donDonald
+$ repo init -v -u git@github.com:donDonald/donDonald.git -b main
+$ repo sync
+```
+
+
+
