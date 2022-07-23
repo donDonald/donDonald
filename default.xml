@@ -4,6 +4,9 @@
     <remote name="donDonald" fetch="."/>
     <default sync-j="4" remote="donDonald" revision="main"/>
 
+    <!-- Main repo -->
+    <project name="donDonald"/>
+
     <project name="dev_factory_tools"/>
     <project name="dev_factory_postgres12"/>
     <project name="dev_factory_mysql"/>
@@ -11,7 +14,7 @@
     <project name="dev_factory_gitlab"/>
 
     <project name="yeap_types"/>
-    <project name="yeap_lib"/>
+    <project name="yeap_dev_tools"/>
     <project name="yeap_logger"/>
     <project name="yeap_db"/>
     <project name="yeap_app_server"/>
