@@ -13,6 +13,7 @@
     <project name="dev_factory_dregistry"/>
     <project name="dev_factory_gitlab"/>
     <project name="dev_factory_opencv_sdk"/>
+    <project name="dos_games_env"/>
 
     <project name="yeap_types"/>
     <project name="yeap_dev_tools"/>
