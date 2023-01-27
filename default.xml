@@ -12,6 +12,7 @@
     <project name="dev_factory_mysql"/>
     <project name="dev_factory_dregistry"/>
     <project name="dev_factory_gitlab"/>
+    <project name="dev_factory_opencv_sdk"/>
 
     <project name="yeap_types"/>
     <project name="yeap_dev_tools"/>
