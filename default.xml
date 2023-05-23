@@ -29,6 +29,7 @@
 
     <!-- 3rd parties -->
     <project name="dockprom"/>
+    <project name="metavm" revision="master"/>
 
   <!--
     Merge marker to make it easier for git to merge AOSP-only manifest
