@@ -25,7 +25,6 @@
     <project name="dos_games_env"/>
     <project name="cpp_tests"/>
     <project name="java_tests"/>
-    <project name="watches"/>
 
     <!-- 3rd parties -->
     <project name="dockprom"/>
