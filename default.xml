@@ -26,6 +26,8 @@
     <project name="cpp_tests"/>
     <project name="java_tests"/>
 
+    <project name="ML"/>
+
     <!-- 3rd parties -->
     <project name="dockprom"/>
     <project name="metavm" revision="master"/>
