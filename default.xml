@@ -14,6 +14,7 @@
     <project name="dev_factory_gitlab"/>
     <project name="dev_factory_opencv_sdk"/>
     <project name="dev_factory_devops"/>
+    <project name="dev_factory_jupyter"/>
 
     <project name="yeap_types"/>
     <project name="yeap_dev_tools"/>
