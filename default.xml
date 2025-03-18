@@ -7,6 +7,8 @@
     <!-- Main repo -->
     <project name="donDonald"/>
 
+    <project name="project_Veterok"/>
+
     <project name="dev_factory_tools"/>
     <project name="dev_factory_postgres12"/>
     <project name="dev_factory_mysql"/>
