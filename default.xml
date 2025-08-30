@@ -9,6 +9,7 @@
 
     <project name="project_Veterok"/>
     <project name="Cockpit"/>
+    <project name="headtracker_docker"/>
 
     <project name="dev_factory_tools"/>
     <project name="dev_factory_postgres12"/>
