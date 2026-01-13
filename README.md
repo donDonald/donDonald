@@ -1,3 +1,10 @@
+<div align="center">
+    <img src="images/license-MIT-blue.svg">
+</div>
+
+
+
+
 # Hi there 👋
 
 # donDonald repo
@@ -33,6 +40,3 @@ $ mkdir donDonald && cd donDonald
 $ repo init -v -u git@github.com:donDonald/donDonald.git -b main
 $ repo sync
 ```
-
-
-
