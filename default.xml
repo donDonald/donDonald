@@ -34,6 +34,8 @@
 
     <project name="ML"/>
 
+    <project name="cool_nvim_setup"/>
+
   <!--
     Merge marker to make it easier for git to merge AOSP-only manifest
     changes to a custom manifest.  Please keep this marker here and
