@@ -32,9 +32,10 @@
     <project name="cpp_tests"/>
     <project name="java_tests"/>
 
-    <project name="ML"/>
-
     <project name="cool_nvim_setup"/>
+
+    <project name="ML"/>
+    <project name="llm_ollama_docker"/>
 
   <!--
     Merge marker to make it easier for git to merge AOSP-only manifest
